@@ -38,4 +38,4 @@ role tersebut di level model, migration, dan authorization.
 ## DoD (Definition of Done)
 - [x] Branch baru dibuat: `features/tambah-role-approver-a3f9c1`
 - [ ] Semua Acceptance criteria terpenuhi
-- [ ] Merge ke default branch
+- [ ] Buat PR ke branch develop
