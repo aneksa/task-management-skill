@@ -26,4 +26,4 @@ created_at: <YYYY-MM-DD>
 ## DoD (Definition of Done)
 - [ ] Branch baru dibuat: `features/<slug-judul-task>-<uid>`
 - [ ]
-- [ ] Merge ke default branch
+- [ ] Buat PR ke branch default
